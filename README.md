@@ -2,10 +2,10 @@ Test
 
 ##Test
 # Context
-#Proposed solution
-#Methods
+# Proposed solution
+# Methods
 ## Query generation
 ## Semantic search
 ## Topic modeling/sentiment analysis
-#Implementation options
-#Demo
+# Implementation options
+# Demo
