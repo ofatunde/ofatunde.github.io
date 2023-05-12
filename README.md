@@ -6,10 +6,10 @@ This project was completed with the [World Bank-UNHCR Joint Data Center on Force
 <br/>
 Project wiki: [https://ofatunde.github.io/microdata-citation-explorer/intro.html](https://ofatunde.github.io/microdata-citation-explorer/intro.html)
 
-## African University Database
+## Atlas of African Higher Education
 Coming soon.
 
-## CraftLadder
+## ThreadNeed
 Coming soon.
 
 ## Piecely
